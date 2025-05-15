@@ -638,7 +638,7 @@ top: 25px;
     overflow: visible;
   }
   header{
-    width: 105%;
+    width: 100%;
   }
 header li:nth-child(1){
   display: none;
@@ -662,7 +662,7 @@ header li{
   font-weight: 900;
 }
 .container{
-  width: 105%;
+  width: 100%;
 }
 .container a{
   display: none;
